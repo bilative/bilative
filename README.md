@@ -8,6 +8,6 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/bilallozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilallozdemir" height=40" width="40" /></a>
+<a href="https://twitter.com/bilallozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilallozdemir" height=40" width="60" /></a>
 <a href="https://www.linkedin.com/in/bilallatifozdemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilallatifozdemir" height="40" width="40" /></a>
 </p>
