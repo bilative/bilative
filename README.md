@@ -12,6 +12,6 @@
 </p>
 
 <p align="right">
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilative&show_icons=true&locale=en&layout=midnight-purple&langs_count=12" alt="bilative"/>
+		  <img height="250em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilative&show_icons=true&locale=en&layout=midnight-purple&langs_count=12" alt="bilative"/>
 	</a>
 </p>
