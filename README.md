@@ -9,9 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/bilallozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilallozdemir" height=40" width="110" /></a>
 <a href="https://www.linkedin.com/in/bilallatifozdemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilallatifozdemir" height="40" width="40" /></a>
-</p>
 
-<p align="right">
-		  <img height="250em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilative&show_icons=true&locale=en&layout=midnight-purple&langs_count=12" alt="bilative"/>
+<img height="250em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilative&show_icons=true&locale=en&layout=midnight-purple&langs_count=12" alt="bilative"/>
 	</a>
 </p>
