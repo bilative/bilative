@@ -11,4 +11,4 @@
 <a href="https://www.linkedin.com/in/bilallatifozdemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilallatifozdemir" height="40" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bilative&show_icons=true&locale=en&layout=default&langs_count=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bilative&show_icons=true&locale=en&layout=midnight-purple&langs_count=12)
