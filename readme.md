@@ -14,3 +14,5 @@
   <img align="left" src="https://user-images.githubusercontent.com/70684994/126725349-8da58bd7-4c93-4440-a9a0-78b4b121fda1.jpg" alt="bilallatifozdemir" height="80" width="80" />
 </a>
 </p>
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bilallozdemir)
