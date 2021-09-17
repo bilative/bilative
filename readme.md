@@ -4,7 +4,9 @@
   
  <p align = "center"> 
   Learning new things around data analysis / science and the data engineering tools are my passion.You can check my repos, ask me about another topics around data, and you can contact with me about hobby data science projects. No hesitate. </p>
-
+<!---
+![](https://komarev.com/ghpvc/?username=bilative)
+-->
 
 <h3 align="left">Contact:</h3>
 <p align="left">
@@ -15,6 +17,4 @@
 </a>
 </p>
 <br>
-
   
-![spoti](https://spotify-recently-played-readme.vercel.app/api?user=bilallozdemir)
