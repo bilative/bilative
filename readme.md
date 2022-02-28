@@ -15,6 +15,9 @@
 <a style= "padding-left: 50px" href="https://sisterslab.co/yazar/bilal-ozdemir/" target="_blank">
   <img align="left" src="https://user-images.githubusercontent.com/70684994/126725349-8da58bd7-4c93-4440-a9a0-78b4b121fda1.jpg" alt="bilallatifozdemir" height="80" width="80" />
 </a>
+  <a style= "padding-left: 50px" href="https://medium.com/@bilallozdemir" target="_blank">
+  <img align="left" src="https://user-images.githubusercontent.com/70684994/156036055-9f9e46ab-5a09-415a-8f70-cea5c27832a6.png" alt="bilallatifozdemir" height="70" width="150" />
+</a>
 </p>
 <br>
   
