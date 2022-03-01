@@ -1,13 +1,15 @@
-<h2 align "center"> Hi </h1>
 
-<p align = "center"> Im working as a data scientist. I was graduated from DEU Statistics department and currently Im doing my Master on Information Technologies at Ege University International Computer Institude.   </p>
+<h2 align = "center"> Hi, I'm Bilal </h2>
+
+<p align = "center"> Currently I'm working as a data analyst in an e-commerce company. In nighttime and the weekend I'm interested in data engineering, data science, cloud services, and Python. I was graduated from DEU Statistics department, statistics is in my side every time.</p>
   
  <p align = "center"> 
-  Learning new things around data analysis / science and the data engineering tools are my passion.You can check my repos, ask me about another topics around data, and you can contact with me about hobby data science projects. No hesitate. </p>
+  You can contact with me about anything you want. I can help you about your homeworks, services or products.</p>
 <!---
 ![](https://komarev.com/ghpvc/?username=bilative)
 -->
 
+<!---
 <h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://twitter.com/bilallozdemir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilallozdemir" height=40" width="110" /></a>
@@ -20,4 +22,6 @@
 </a>
 </p>
 <br>
-  
+-->
+
+## NOTE: I'm on a smth like internet detox, You can not reach me except e-mail. bilallozdemir@outlook.com
