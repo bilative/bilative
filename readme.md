@@ -1,7 +1,7 @@
 
 <h2 align = "center"> Hi, I'm Bilal </h2>
 
-<p align = "center"> Currently I'm working as a data analyst in an e-commerce company. In nighttime and the weekend I'm interested in data engineering, data science, cloud services, and Python. I was graduated from DEU Statistics department, statistics is in my side every time.</p>
+<p align = "center"> Currently I'm working as a data analyst in an e-commerce company. Additionally I'm interested in data engineering, data science, cloud services, and Python. I was graduated from DEU Statistics department, statistics is in my side every time.</p>
   
  <p align = "center"> 
   You can contact with me about anything you want. I can help you about your homeworks, services or products.</p>
